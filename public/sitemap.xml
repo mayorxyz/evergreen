@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://evergreen.io/</loc><priority>1.0</priority></url>
+  <url><loc>https://evergreen.io/product</loc><priority>0.9</priority></url>
+  <url><loc>https://evergreen.io/pricing</loc><priority>0.9</priority></url>
+  <url><loc>https://evergreen.io/blog</loc><priority>0.8</priority></url>
+  <url><loc>https://evergreen.io/blog/day-1-retention-benchmarks</loc><priority>0.7</priority></url>
+  <url><loc>https://evergreen.io/blog/mystery-rewards-lift-daily-return</loc><priority>0.7</priority></url>
+  <url><loc>https://evergreen.io/blog/segmenting-by-spend</loc><priority>0.7</priority></url>
+  <url><loc>https://evergreen.io/blog/push-notification-timing</loc><priority>0.7</priority></url>
+  <url><loc>https://evergreen.io/blog/reading-signs-of-churn</loc><priority>0.7</priority></url>
+  <url><loc>https://evergreen.io/blog/designing-reward-economies</loc><priority>0.7</priority></url>
+  <url><loc>https://evergreen.io/blog/social-deep-links</loc><priority>0.7</priority></url>
+  <url><loc>https://evergreen.io/blog/sdk-integration-checklist</loc><priority>0.7</priority></url>
+  <url><loc>https://evergreen.io/blog/masterclass-in-retention</loc><priority>0.7</priority></url>
+  <url><loc>https://evergreen.io/about</loc><priority>0.8</priority></url>
+  <url><loc>https://evergreen.io/docs</loc><priority>0.8</priority></url>
+  <url><loc>https://evergreen.io/docs/getting-started</loc><priority>0.7</priority></url>
+  <url><loc>https://evergreen.io/docs/unity-sdk</loc><priority>0.7</priority></url>
+  <url><loc>https://evergreen.io/docs/unreal-sdk</loc><priority>0.7</priority></url>
+  <url><loc>https://evergreen.io/docs/ios-sdk</loc><priority>0.7</priority></url>
+  <url><loc>https://evergreen.io/docs/android-sdk</loc><priority>0.7</priority></url>
+  <url><loc>https://evergreen.io/docs/campaigns</loc><priority>0.7</priority></url>
+  <url><loc>https://evergreen.io/docs/segments</loc><priority>0.7</priority></url>
+  <url><loc>https://evergreen.io/docs/rewards</loc><priority>0.7</priority></url>
+  <url><loc>https://evergreen.io/docs/automations</loc><priority>0.7</priority></url>
+  <url><loc>https://evergreen.io/docs/api-reference</loc><priority>0.7</priority></url>
+  <url><loc>https://evergreen.io/demo</loc><priority>0.8</priority></url>
+  <url><loc>https://evergreen.io/contact</loc><priority>0.6</priority></url>
+  <url><loc>https://evergreen.io/privacy</loc><priority>0.4</priority></url>
+  <url><loc>https://evergreen.io/terms</loc><priority>0.4</priority></url>
+</urlset>

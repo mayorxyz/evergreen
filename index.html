@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Evergreen — The retention engine behind irresistible games</title>
+    <meta name="description" content="Top-grossing studios use Evergreen to turn real-time player behavior into personalized, reward-driven messages that boost daily return and lifetime value." />
+    <meta property="og:title" content="Evergreen — The retention engine behind irresistible games" />
+    <meta property="og:description" content="Top-grossing studios use Evergreen to turn real-time player behavior into personalized, reward-driven messages that boost daily return and lifetime value." />
+    <meta property="og:type" content="website" />
+    <meta name="theme-color" content="#F8F8F3" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600;700&family=Inter:wght@400;500;600&family=DM+Mono:wght@400;500&family=Silkscreen:wght@400;700&display=swap" rel="stylesheet" />
+    <script>
+      // Apply theme before first paint to prevent flash
+      (function() {
+        try {
+          var stored = localStorage.getItem('evergreen-theme');
+          var theme = stored || 'system';
+          var resolved = theme;
+          if (theme === 'system') {
+            resolved = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+          }
+          document.documentElement.setAttribute('data-theme', resolved);
+          document.documentElement.style.colorScheme = resolved;
+        } catch (e) {}
+      })();
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
